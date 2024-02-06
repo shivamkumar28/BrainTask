@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622306798425",
+    "project_id": "braintodos",
+    "storage_bucket": "braintodos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622306798425:android:61081a2074a168a50afa48",
+        "android_client_info": {
+          "package_name": "com.braintask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwAkJDib8jrDkravdheKVRDZEnakBSv1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

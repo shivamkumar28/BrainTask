@@ -6,7 +6,7 @@ const Routes = {
 const Screens = {
     login: 'Login',
     home: 'Home',
-    details: "Details"
+    editDetails: "editDetails"
 }
 
 export { Screens, Routes }
